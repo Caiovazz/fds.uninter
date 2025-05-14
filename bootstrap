@@ -1,2 +1,4 @@
 git clone https://github.com/Caiovazz/fds.uninter.git
 cd fds.uninter
+mkdir bootstrap/css
+git add .
